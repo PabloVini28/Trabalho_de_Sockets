@@ -2,7 +2,7 @@
 
 ## Desenvolvedores :  👥
 - Emilly Paiva Belo
-- [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sfoDavid)
+- [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 - Pablo Vinícios da S.Araújo
 - [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVini28)
