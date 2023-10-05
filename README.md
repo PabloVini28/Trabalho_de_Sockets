@@ -13,7 +13,7 @@
 
 - O trabalho consiste em permitir que dois computadores troquem informações via conexão TCP através de um endereço IP e de uma porta.
   
-- O Host Servidor deve compilar e iniciar o sever e, logo em seguida, o Host Cliente deve compilar e conectar-se, lembrando que ele deve estar com o IP
+- O Host Servidor deve compilar e iniciar o sever e, logo em seguida, o Host Cliente deve compilar e conectar-se ao servidor, lembrando que ele deve estar com o IP
 do servidor e ambos com a mesma porta setada.
 
 - Neste exemplo, é calculado a área de um terreno, porém as funções podem ser modificadas a gosto do usuário.
