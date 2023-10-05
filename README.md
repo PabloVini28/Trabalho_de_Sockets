@@ -1,7 +1,7 @@
 # Trabalho de Sockets 🖥️---💻​
 
 ## Desenvolvedores :  👥
-- Emilly Paiva Bela
+- Emilly Paiva Belo
 - [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sfoDavid)
 
 - Pablo Vinícios da S.Araújo
