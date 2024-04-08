@@ -1,19 +1,16 @@
-# Trabalho de Sockets 🖥️---💻​
+# Socket Assignment 🖥️---💻​
 
-## Desenvolvedores :  👥
-- Emilly Paiva Belo
-- [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+## Developer:  👥
 
-- Pablo Vinícios da S.Araújo
-- [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVini28)
+- Pablo Vinícios da S.Araújo [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVini28)
 
-  ## Considerações : 📝
+## Remarks: 📝
 
-- Desenvolvido para a cadeira de Redes de Computadores da UFC - Campus de Quixadá.
+- Developed for the Computer Networks course at UFC - Campus de Quixadá.
 
-- O trabalho consiste em permitir que dois computadores troquem informações via conexão TCP através de um endereço IP e de uma porta.
-  
-- O Host Servidor deve compilar e iniciar o sever e, logo em seguida, o Host Cliente deve compilar e conectar-se ao servidor, lembrando que ele deve estar com o IP
-do servidor e ambos com a mesma porta setada.
+- The assignment involves enabling two computers to exchange information via TCP connection using an IP address and a port.
 
-- Neste exemplo, é calculado a área de um terreno, porém as funções podem ser modificadas a gosto do usuário.
+- The Server Host must compile and start the server, then the Client Host must compile and connect to the server, remembering that it must have the IP of the server and both must have the same set port.
+
+- In this example, the area of a plot of land is calculated, but the functions can be modified to the user's preference.
+
